@@ -32,7 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <P>A ticket may go through six different stages in its lifecycle.
 <P>
-<img src="" 70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KiIui2q.png" 70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <h4>Severity levels</h4>
 
@@ -51,43 +51,49 @@ Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 <p>I used the no password or login required which would allow any user to create tickets.
 To create a new ticket:  Open a New Ticket
 Enter your contact information, help topic, issue summary and select create ticket
-<P>Creat a new ticket
+<P>
+
+<p>Creat a new ticket
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aYh0W31.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eyKxAk5.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZRqJKcN.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>The "Business Critical Outage" ticket was created
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MSNrHmM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<p>Create the other tickets “Accounting department” and the “CFO” from the list above.
+<p>Create the tickets “Accounting department” and the “CFO” from the list above.
 The Accounting department ticket
 Create a new ticket
 <p>
+<img src="https://i.imgur.com/BOxGnrI.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OuY1dv2.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AS1rNR3.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<p>The new ticket for Accounting was created/
+<p>
+<img src="https://i.imgur.com/3XCDhCk.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
 
 <p>The CFO ticket
 Create a new ticket
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/B3xow15.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HkolWkB.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W5GLkAb.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<p>For end users, when you create a new ticket you will get the screen that show that you have a new ticket.
+<p>End Clients can check the status of their tickets by selecting the green check ticket status button.
+Provide your email and ticket number
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YFe43OC.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <h2>Intake</h2>
 
@@ -95,35 +101,36 @@ Create a new ticket
 <p>
 <p>Here are the three tickets that were created,
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eJOECNL.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>I will examine each ticket and assign an SEV priority to each ticket.  All tickets are currently priority normal
 Start with ticket #622392.  This looks like a critical system failure, this has a financial impact on the business. This ticket will have top priority.
+
 Ticket #860628 will be next on the priority list because the entire accounting department is affected.
+
 Ticket #280913 will have the lowest priority.
 <p>
 
 <p>Ticket 622392 priority was changed to Emergency and has an SEV-A designation
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5ZMaVba.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Ticket 860628 will be upgraded to High priority and SEV-B
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2qFzomE.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/p8idLgA.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Ticket 280913 will have a normal priority and an SEV-B 
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sliSR76.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YPJDXjU.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Here are the updated tickets
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jjXIKqM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>When the tickets have been resolved
 <p>
