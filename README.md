@@ -19,8 +19,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2></h2>
 
+- Ticket Lifecycle Stages
 - Severity levels
 - How End Users Create Tickets
 - Intake
@@ -28,14 +29,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Ticket Lifecycle Stages</h2>
 
 <P>A ticket may go through six different stages in its lifecycle.
 <P>
 <img src="https://i.imgur.com/KiIui2q.png" 70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <h4>Severity levels</h4>
-
 
 <p>Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
 Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
@@ -46,7 +46,6 @@ Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 
 <p>Use the URL http://localhost/osTicket/ and paste it into your web browser
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>I used the no password or login required which would allow any user to create tickets.
 To create a new ticket:  Open a New Ticket
@@ -114,6 +113,10 @@ Ticket #280913 will have the lowest priority.
 <p>Ticket 622392 priority was changed to Emergency and has an SEV-A designation
 <p>
 <img src="https://i.imgur.com/5ZMaVba.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<p>Here is example of how to document a change in a tickets priroty
+<p>
+<img src="="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Ticket 860628 will be upgraded to High priority and SEV-B
 <p>
