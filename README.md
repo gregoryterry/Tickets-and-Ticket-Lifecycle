@@ -96,7 +96,7 @@ Provide your email and ticket number
 
 <h2>Intake</h2>
 
-<p>An agent will logon to the osTicket portal as an admin, to review the new tickets that were created.  The tickets will be assigned to other agents according to complexity and severity.
+<p>An agent will logon to the osTicket portal as an admin to review the new tickets that were created.  The tickets will be assigned to other agents according to complexity and severity.
 <p>
 <p>Here are the three tickets that were created,
 <p>
@@ -116,7 +116,7 @@ Ticket #280913 will have the lowest priority.
 
 <p>Here is example of how to document a change in a tickets priroty
 <p>
-<img src="="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src=""70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Ticket 860628 will be upgraded to High priority and SEV-B
 <p>
@@ -135,13 +135,17 @@ Ticket #280913 will have the lowest priority.
 <p>
 <img src="https://i.imgur.com/jjXIKqM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
+  <h4>Working the Issue</h2>
+  
+<p>Agents can use the ticket ID to track the progress of a ticket from start to finish. Communicate with the user and provide them with timely updates. If a ticket status is escalated or assigned to a higher represensitive, let the customer know about the change and what new timelines they can expect. 
+  
+  <h4>Resolution</h2>
 <p>When the tickets have been resolved
 <p>
 <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<h4>
 <p>Change status to resolve, not closed.  The ticket will remain in this state until we verify that all commence traffic is flowing.
 You can see that the ticket has been removed from the list.
 <p>
