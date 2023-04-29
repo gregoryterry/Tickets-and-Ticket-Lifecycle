@@ -136,23 +136,31 @@ Ticket #280913 will have the lowest priority.
 <img src="https://i.imgur.com/jjXIKqM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <h4>Working the Issue</h2>
+
+<p>Wwhen you change a ticket, there is a thread or history of the changes
+<p>
+
+<p>Agents can use the ticket ID to track the progress of a ticket from start to finish. Communicate with the user and provide them with timely updates. If a ticket status is escalated or assigned to a higher represensitive, let the customer know about the change and what new timelines they can expect.  An example of an escalated ticket would look like this:
+<p>
+<img src="https://i.imgur.com/acWlz8o.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8YoHjR5.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wl4K8VJ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
   
-<p>Agents can use the ticket ID to track the progress of a ticket from start to finish. Communicate with the user and provide them with timely updates. If a ticket status is escalated or assigned to a higher represensitive, let the customer know about the change and what new timelines they can expect. 
-  
-<h4>Resolution</h2>
+<h4>Resolution</h4>
   
 <p>When the tickets have been resolved
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X7hIzod.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JjASfez.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>For ticket 622392, I change the status to resolved, not closed.  The ticket will remain in this state until verification that all commence traffic is flowing.
-You can see that the ticket has been removed from the list.
+You can see even though the ticked is not closed, it has been removed from the list.
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TR3j0Ob.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<p>The remaining ticket will be resolved in the similar manner, starting with ticket 860628.  Ticket 280913 will have the a lowwer priorty.
+<p>The remaining ticket will be resolved in the similar manner, starting with ticket 860628.  Ticket 280913 will have the a lower priorty.
 <p>
 
 
