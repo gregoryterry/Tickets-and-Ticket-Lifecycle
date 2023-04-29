@@ -65,7 +65,10 @@ Enter your contact information, help topic, issue summary and select create tick
 <img src="https://i.imgur.com/MSNrHmM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Create the tickets “Accounting department” and the “CFO” from the list above.
-The Accounting department ticket
+<p>
+                                                                                                 
+<p>The Accounting department ticket
+                                                                                                 
 Create a new ticket
 <p>
 <img src="https://i.imgur.com/BOxGnrI.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
