@@ -82,12 +82,13 @@ Create a new ticket
 <img src="https://i.imgur.com/3XCDhCk.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 
-<p>The CFO ticket
+<p>The Peronal Computer Issue Ticket
+                                                                                                 
 Create a new ticket
 <p>
 <img src="https://i.imgur.com/B3xow15.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/HkolWkB.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mwSxgyh.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/W5GLkAb.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
@@ -119,7 +120,6 @@ Ticket #280913 will have the lowest priority.
 
 <p>Here is example of how to document a change in a tickets priroty
 <p>
-<img src=""70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Ticket 860628 will be upgraded to High priority and SEV-B
 <p>
