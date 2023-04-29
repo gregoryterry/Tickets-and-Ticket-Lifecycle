@@ -74,7 +74,7 @@ Create a new ticket
 
 <img src="https://i.imgur.com/AS1rNR3.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<p>The new ticket for Accounting was created/
+<p>The new ticket for Accounting was created.
 <p>
 <img src="https://i.imgur.com/3XCDhCk.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
