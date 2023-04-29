@@ -94,7 +94,7 @@ Provide your email and ticket number
 <img src="https://i.imgur.com/YFe43OC.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 
-<h2>Intake</h2>
+<h4>Intake</h4>
 
 <p>An agent will logon to the osTicket portal as an admin to review the new tickets that were created.  The tickets will be assigned to other agents according to complexity and severity.
 <p>
@@ -135,11 +135,12 @@ Ticket #280913 will have the lowest priority.
 <p>
 <img src="https://i.imgur.com/jjXIKqM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-  <h4>Working the Issue</h2>
+<h4>Working the Issue</h2>
   
 <p>Agents can use the ticket ID to track the progress of a ticket from start to finish. Communicate with the user and provide them with timely updates. If a ticket status is escalated or assigned to a higher represensitive, let the customer know about the change and what new timelines they can expect. 
   
-  <h4>Resolution</h2>
+<h4>Resolution</h2>
+  
 <p>When the tickets have been resolved
 <p>
 <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
