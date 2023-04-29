@@ -146,12 +146,12 @@ Ticket #280913 will have the lowest priority.
 
 <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<p>Change status to resolve, not closed.  The ticket will remain in this state until we verify that all commence traffic is flowing.
+<p>For ticket 622392, I change the status to resolved, not closed.  The ticket will remain in this state until verification that all commence traffic is flowing.
 You can see that the ticket has been removed from the list.
 <p>
 <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<p>The remaining ticket will be resolved in the same manner, starting with ticket 860628.
+<p>The remaining ticket will be resolved in the similar manner, starting with ticket 860628.  Ticket 280913 will have the a lowwer priorty.
 <p>
 
 
